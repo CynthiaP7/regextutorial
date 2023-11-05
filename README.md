@@ -35,6 +35,13 @@ WHEN I reach the end of the tutorial
 THEN I find a section about the author and a link to the author’s GitHub profile
 ```
 
+## Sources
+
+rexegg.com - https://www.rexegg.com/regex-tricks.html
+regular-expressions.info - https://www.regular-expressions.info/quickstart.html
+sitepoint.com - https://www.sitepoint.com/learn-regex/
+
+
 ## Links
 
 Link to Git Hub Repo = https://github.com/CynthiaP7/regextutorial
